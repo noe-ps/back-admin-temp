@@ -1,0 +1,31 @@
+# General
+*.pyc
+__pycache__/
+.DS_Store
+
+# Virtual environment
+venv/
+env/
+
+# Local configuration
+config.json
+config.yaml
+
+# IDE-specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+
+# Build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Test files
+tests/
+*.pytest_cache
+
+# Logs
+logs/
